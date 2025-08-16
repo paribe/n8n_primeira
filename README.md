@@ -84,16 +84,10 @@ Somente prossiga no fluxo se o participante selecionar **Sim**.
 
 ## 🔄 Fluxograma do Processo
 
-```mermaid
-flowchart TD
-    A[📝 Formulário Online] --> B{Consentimento?}
+![alt text](image.png)
 
-    B -- Sim --> C[📩 Enviar E-mail com Links ou Anexos]
-    B -- Não --> D[⚠️ Enviar E-mail: "Não é possível salvar os dados"]
 
-    C --> E[✅ Fim do Processo]
-    D --> E
-```
+Evidências :
 
 ![alt text](image-3.png)
 
