@@ -81,6 +81,8 @@ Somente prossiga no fluxo se o participante selecionar **Sim**.
 ✅ Agora você tem um fluxo automatizado no **n8n** para receber respostas, validar consentimento e enviar materiais via e-mail.
 
 ---
+![alt text](image-1.png)
+---
 
 ## 🔄 Fluxograma do Processo
 
